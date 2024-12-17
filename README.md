@@ -15,17 +15,12 @@ A classic **Tic-Tac-Toe Game** built for two players, with winning condition log
 - **JavaScript** for game logic and AI implementation  
 
 ### 🌐 Live Demo:
-[Tic-Tac-Toe Game Demo](#)
+[Tic-Tac-Toe Game Demo](https://aitic-tac-toewebapplicationkishore.vercel.app/)
 
 ### 💡 Knowledge Gained:
 - Implementing game logic using arrays and loops  
 - Dynamic DOM manipulation  
 - Winning condition checks and animations  
 - AI logic for single-player functionality  
-
----
-## 🚀 Connect With Me:
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **GitHub:** [Your GitHub Profile](#)  
 
 Feel free to explore these projects and let me know your thoughts or suggestions!
